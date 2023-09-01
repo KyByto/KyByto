@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kybyto</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🔭 I’m currently Learning **Advanced React js**
+- 🔭 I’m currently Learning **React Router V6**
 
 - 👯 I’m looking to collaborate on **Simple Project for free**
 
