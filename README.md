@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zakoronaldo77@gmail.com**
 
--  **I think im funny**
+- ⚡ **I think im funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
