@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [GLP ( google developer group learning platform )](not-ready-yet)
 
-- 🌱 I’m currently learning **TypeScript & Next js & Tailwind**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **Web Project**
 
