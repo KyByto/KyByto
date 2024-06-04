@@ -1,6 +1,5 @@
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently working on [GLP ( google developer group learning platform )](not-ready-yet)
 
 - 🌱 I’m currently learning **Laravel PHP**
 
