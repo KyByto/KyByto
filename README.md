@@ -1,9 +1,6 @@
 <h3 align="center">Full Stack developer</h3>
 
 
-- 🌱 I’m currently learning **Laravel PHP**
-
-- 👯 I’m looking to collaborate on **Web Project**
 
 - 💬 Ask me about **Web Development**
 
