@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Full Stack developer Laravel Specialist</h3>
 
 
 
