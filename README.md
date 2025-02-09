@@ -1,8 +1,8 @@
-<h3 align="center">Full Stack Web Developer | PHP Laravel Wordpress </h3>
+<h3 align="center">Software Developer </h3>
 
 
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** **Mobile Development**
 
 - 📫 How to reach me **contact@kybyto.tech**
 
